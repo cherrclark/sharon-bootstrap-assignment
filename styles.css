@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(187, 26, 53);
+    text-align: center;
+}
+.col-sm {
+    color: red;
+}
+
+body {
+    background-image: url("images/darkness.png");
+
+.jumbotron {
+    background-color: fuchsia;
+
+}
+.container {
+
+}
